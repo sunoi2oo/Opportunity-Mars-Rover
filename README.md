@@ -1,5 +1,5 @@
 # Team : Staria
-# By : Sunoi
+# By : sunoi2oo
 
 ## Overview
 - **Rover Mobility:** 6-wheel drive with 4-corner steering using `HingeConstraint`s, custom camera controls, and self-righting recovery.
