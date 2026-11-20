@@ -6,7 +6,7 @@
 - **Martian Geology:** Exploration and sample discovery around iconic *Opportunity* targets.
 - **UI & Feedback:** Menu navigation, cutscenes, objective tracking, and stackable, auto-clearing notifications.
 
-- ```text
+ ```text
 src/
 ├── ServerScriptService/
 │   └── Server.luau
